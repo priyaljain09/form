@@ -1,0 +1,39 @@
+
+body{
+    background-color:lightpink;
+}
+#box{
+    height: 500px;
+    width:400px;
+    border: 2px solid black;
+    align-items: center;
+    line-height: 70px;
+    color: black;
+    background-color:rgb(61, 139, 94);
+    margin: 50px;
+    font-size: 20px;
+}
+
+
+#heading{
+    color: black;
+    margin-top: 10px;
+    font-size: 60px;
+ 
+}
+#register{
+    font-size: 50pxpx;
+
+}
+marquee{
+    font-size: 40px;
+    color:white;
+    background-color:black;
+
+}
+button{
+    font-size:20px;
+}
+button:hover{
+background-color: blueviolet;
+}
